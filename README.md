@@ -1,4 +1,4 @@
 # GitDemo
 Learning Git and Github
 <br>
-Author - Kashad Kamdi
+Author - Kashad Kamdi, Nandori
